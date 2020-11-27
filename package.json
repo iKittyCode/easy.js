@@ -1,0 +1,11 @@
+{
+  "name": "easy",
+  "version": "1.0.0",
+  "description": "This is my easy.js library ",
+  "main": "easy.js",
+  "scripts": {
+
+  },
+  "author": "Booleans",
+  "license": "MIT"
+}
