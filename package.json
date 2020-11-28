@@ -1,11 +1,25 @@
 {
-  "name": "easy",
+  "name": "easy.js",
   "version": "1.0.0",
   "description": "This is my easy.js library ",
   "main": "easy.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "author": "Booleans",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iKittyCode/easy.js.git"
+  },
+  "keywords": [
+    "easy",
+    "coding",
+    "should",
+    "be",
+    "easy"
+  ],
+  "bugs": {
+    "url": "https://github.com/iKittyCode/easy.js/issues"
+  },
+  "homepage": "https://github.com/iKittyCode/easy.js#readme",
+  "dependencies": {}
 }

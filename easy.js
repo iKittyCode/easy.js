@@ -13,7 +13,7 @@ class Easy {
     inputPopUp(message) {
         prompt(message)
     }
-    Div(insider) {
+     Div(insider) {
     document.createElement('div').innerHTML = insider
     }
     
