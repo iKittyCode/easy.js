@@ -13,9 +13,12 @@ class Easy {
     inputPopUp(message) {
         prompt(message)
     }
-     Div(insider) {
-    document.createElement('div').innerHTML = insider
+    Div(insider) {
+        document.createElement('div').innerHTML = insider
     }
-    
+    HelloWorldProgram() {
+        this.createAParagrph("Hello world")
+    }
+
 
 }
