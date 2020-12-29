@@ -21,5 +21,12 @@ class Easy {
     }
 
 
+
 }
-module.exports = Easy;
+function prints(message) {
+return message
+}
+module.exports = {
+easy:Easy,
+Print:prints
+};

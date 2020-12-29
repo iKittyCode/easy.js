@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This is my easy.js library ",
   "main": "easy.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "author": "Booleans",
   "license": "MIT",
   "repository": {
