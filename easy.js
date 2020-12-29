@@ -22,3 +22,4 @@ class Easy {
 
 
 }
+module.exports = Easy;
