@@ -1,8 +1,9 @@
 // MIT license by coding can be easy foundation
 class Easy {
 
-    print(message) {
+    prints(message) {
         console.log(message)
+        return message
     }
     popUpMessage(messsage) {
         alert(messsage)
@@ -19,14 +20,7 @@ class Easy {
     HelloWorldProgram() {
         this.createAParagrph("Hello world")
     }
-
-
+    
 
 }
-function prints(message) {
-return message
-}
-module.exports = {
-easy:Easy,
-Print:prints
-};
+module.exports = Easy;
